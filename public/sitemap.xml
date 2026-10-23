@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://www.oasisdelaspalmas.com/es/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.oasisdelaspalmas.com/es/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.oasisdelaspalmas.com/en/" />
+  </url>
+  <url>
+    <loc>https://www.oasisdelaspalmas.com/es/alojamiento</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.oasisdelaspalmas.com/es/alojamiento" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.oasisdelaspalmas.com/en/accommodation" />
+  </url>
+  <url>
+    <loc>https://www.oasisdelaspalmas.com/es/el-hotel</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.oasisdelaspalmas.com/es/el-hotel" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.oasisdelaspalmas.com/en/the-hotel" />
+  </url>
+  <url>
+    <loc>https://www.oasisdelaspalmas.com/es/experiencias</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.oasisdelaspalmas.com/es/experiencias" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.oasisdelaspalmas.com/en/experiences" />
+  </url>
+  <url>
+    <loc>https://www.oasisdelaspalmas.com/es/galeria</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.oasisdelaspalmas.com/es/galeria" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.oasisdelaspalmas.com/en/gallery" />
+  </url>
+  <url>
+    <loc>https://www.oasisdelaspalmas.com/es/contacto</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.oasisdelaspalmas.com/es/contacto" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.oasisdelaspalmas.com/en/contact" />
+  </url>
+  <url>
+    <loc>https://www.oasisdelaspalmas.com/en/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.oasisdelaspalmas.com/es/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.oasisdelaspalmas.com/en/" />
+  </url>
+  <url>
+    <loc>https://www.oasisdelaspalmas.com/en/accommodation</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.oasisdelaspalmas.com/es/alojamiento" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.oasisdelaspalmas.com/en/accommodation" />
+  </url>
+  <url>
+    <loc>https://www.oasisdelaspalmas.com/en/the-hotel</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.oasisdelaspalmas.com/es/el-hotel" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.oasisdelaspalmas.com/en/the-hotel" />
+  </url>
+  <url>
+    <loc>https://www.oasisdelaspalmas.com/en/experiences</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.oasisdelaspalmas.com/es/experiencias" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.oasisdelaspalmas.com/en/experiences" />
+  </url>
+  <url>
+    <loc>https://www.oasisdelaspalmas.com/en/gallery</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.oasisdelaspalmas.com/es/galeria" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.oasisdelaspalmas.com/en/gallery" />
+  </url>
+  <url>
+    <loc>https://www.oasisdelaspalmas.com/en/contact</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.oasisdelaspalmas.com/es/contacto" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.oasisdelaspalmas.com/en/contact" />
+  </url>
+</urlset>
